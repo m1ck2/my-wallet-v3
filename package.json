@@ -64,7 +64,7 @@
     "ramda-lens": "^0.1.2",
     "randombytes": "^2.0.1",
     "unorm": "^1.4.1",
-    "ws": "2.0.*"
+    "ws": "3.3.*"
   },
   "devDependencies": {
     "babel-cli": "~6.24.0",
